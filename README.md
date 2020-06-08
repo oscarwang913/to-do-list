@@ -1,7 +1,7 @@
 # My To-do list
 This is my side project for to-do list
 
-![To-do list](./img/todo-image.jpg)
+![To-do list](img/todo-image.JPG)
 
 ## Feature and how to use it
 In this to-do list, you can
